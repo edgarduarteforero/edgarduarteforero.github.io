@@ -2,7 +2,7 @@
 title: "Planeación de la capacidad hospitalaria: un enfoque desde el flujo de pacientes con Dinámica de Sistemas"
 collection: publications
 permalink: /publication/2020-03-01-flujo-pacientes-dinamica
-excerpt: 'A research based on Systems Dynamics was developed at a high complexity public hospital, emphasizing in the perspective of patients flow, the definition of parameters that influence capacity and the measurement of the impact of improvement strategies in global efficiency indicators. The study of strategies was based on Analysis of Variance and Principal component analysis (PCA).'
+excerpt: ''
 date: 2020-03-01
 venue: 'Inge CUC'
 paperurl: 'https://revistascientificas.cuc.edu.co/ingecuc/article/view/2651'
