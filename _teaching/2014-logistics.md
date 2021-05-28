@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/logistics
 venue: "Universidad Libre, Faculty of Engineering, Industrial engineering"
-date: 2014-01-01
+#date: 2014-01-01
 location: "Bogotá, Colombia"
 ---
 
