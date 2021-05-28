@@ -2,9 +2,7 @@
 title: "Desarrollo de la metodología lean healthcare en el servicio de medicina interna de una institución hospitalaria de carácter público"
 collection: publications
 permalink: /publication/2020-01-01-lean-hus-medicina-interna
-excerpt: 'Using Lean methodologies in the healthcare field draws important improvements in the operational scope. This paper
-presents an imlementation of Lean Healthcare at Hospital Universitario de La Samaritana (HUS), a public institution of
-high complexity located at Bogotá, Colombia.'
+excerpt: ''
 date: 2020-01-01
 venue: 'Revista Ingeniería, Matemáticas y Ciencias de la información'
 paperurl: 'http://ojs.urepublicana.edu.co/index.php/ingenieria/article/view/569'
