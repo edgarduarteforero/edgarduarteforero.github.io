@@ -8,10 +8,11 @@ date: 2014-01-01
 location: "Bogotá, Colombia"
 ---
 
-Students will learn to design logistic strategies for companies based on the conceptualization of Supply Chain Management. Special emphasis is given to the use of optimization models to design logistic networks.
+The course is aimed to design logistic strategies for companies based on the conceptualization of Supply Chain Management. Special emphasis is given to the use of optimization models with software as [Pyomo (Python)](http://www.pyomo.org/) and OpenSolver.
 
 Main contents
 ==========
+* Supply Chain Management
 * Inventories strategy
 * Facility location strategies
 * Vehicle routing strategies
