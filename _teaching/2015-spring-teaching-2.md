@@ -1,20 +1,28 @@
 ---
-title: "Teaching experience 2"
+title: "Simulation (Simulación)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/simulation
+venue: "Universidad Libre, Faculty of Engineering, Industrial engineering"
+date: 2014-01-01
+location: "Bogotá, Colombia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Discrete Event Simulation is explored as a tool to facilitate decision-making in engineering of processes. Students develop a project to simulate an operational process starting from its characterization and ending in an output analysis. 
 
-Heading 1
-======
+Software tools: 
+* [Pyomo (Python)](http://www.pyomo.org/) 
+* [Simio](http://www.simio.com/) 
+* [CIW](https://ciw.readthedocs.io/en/latest/)
 
-Heading 2
-======
 
-Heading 3
-======
+Course periods: 2019-2021
+
+Main contents
+==========
+* Queueing theory
+* Input analysis
+* Mathematical modeling
+* Computational modeling
+* Output analysis
+* Experiments
