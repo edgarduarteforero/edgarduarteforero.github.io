@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Logistics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+permalink: /teaching/logistics
+venue: "Universidad Libre, Faculty of Engineering, Industrial engineering"
 date: 2014-01-01
-location: "City, Country"
+location: "Bogotá, Colombia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Students will learn to design logistic strategies for companies based on the conceptualization of Supply Chain Management. Special emphasis is given to the use of optimization models to design logistic networks. Main topics are:
+* Inventories strategy
+* Facility location strategies
+* Vehicle routing strategies
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
