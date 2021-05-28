@@ -1,5 +1,5 @@
 ---
-title: "Evaluación de políticas de gestión de inventarios de medicamentos para un sistema multinivel y multiproducto en el Hospital Universitario de la Samaritana (HUS)"
+title: "Evaluación de políticas de gestión de inventarios de medicamentos para un sistema multinivel y multiproducto en el Hospital Universitario de la Samaritana"
 collection: publications
 permalink: /publication/2016-12-01-inventarios-medicamentos
 excerpt: ''
