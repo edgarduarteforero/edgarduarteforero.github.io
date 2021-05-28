@@ -1,7 +1,7 @@
 ---
 title: "Análisis del flujo de pacientes utilizando la simulación discreta en una unidad de quimioterapia de una organización sin ánimo de lucro"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2021-02-01-simulacion-cancer-liga
 excerpt: 'A discrete event model simulation for the attention to patients at a healthcare cancer facility. The simulation was made with Simio simulation software. Research results allowed to find an adequate configuration  of resources to reduce lenght of stay at the facility.'
 date: 2021-02-01
 venue: 'Inventum'
