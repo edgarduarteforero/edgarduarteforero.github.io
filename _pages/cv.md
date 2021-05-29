@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Industrial Engineer, Universidad del Norte, 1998
+* M.S. in Industrial Engineering, Universidad Distrital Francisco José de Caldas, 2014
+* Ph.D in Engineering Industry and Organizations, Universidad Nacional de Colombia, (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2013-: Associate Professor
+  * Universidad Libre
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2003-2012: Administrative Manager
+  * Fundación Foro Nacional por Colombia
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python programmer
+* Operations research analyst
+  * Multiobjective optimization
+  * Pyomo Gurobi user
+* Discrete event and continuous simulation
+  * System dynamics: Vensim
+  * Discrete simulation: Simio
 
 Publications
 ======
