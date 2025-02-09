@@ -1,6 +1,16 @@
+---
+title: 'La paradoja de Bogotá: Rodeados de agua pero sedientos de soluciones'
+date: 2025-02-09
+permalink: /posts/2025/02/blog-post-2/
+tags:
+  - Bogotá
+  - Crisis
+  - Historia
+---
+
 # La paradoja de Bogotá: Rodeados de agua pero sedientos de soluciones
 
-# El contexto
+## El contexto
 
 Nueva Delhi, Teherán, Bagdad, Canberra, París, Madrid, Ciudad de México
 y Bogotá, tienen algo en común, además de ser ciudades capitales. Son
@@ -47,7 +57,7 @@ alt="EL MAPA DEL AGUA EN BOGOTÁ " />
 
 https://www.lasillavacia.com/silla-nacional/bogota/el-mapa-del-agua-en-bogota/
 
-# El pasado 
+## El pasado 
 
 No obstante, la historia enseña que la ciudad mantuvo un precario
 sistema de abastecimiento hasta inicios del siglo XX, cuando
@@ -67,7 +77,7 @@ resultado insuficientes por razones [técnicas, políticas y
 recientemente,
 ambientales](https://www.elespectador.com/bogota/bogota-una-ciudad-con-origen-acuatico-y-una-historia-de-escasez/).
 
-# Chingaza
+## Chingaza
 
 Los expertos hablan de una “chingaza-dependencia”, soportada en ese
 altísimo porcentaje del 71% de abastecimiento. Se sabe que los cuerpos
@@ -94,7 +104,7 @@ En una reciente entrevista, la Alcaldía de la ciudad explica que [en un
 par de meses ya se estarían levantando las restricciones al
 abastecimiento](https://www.elespectador.com/bogota/galan-vislumbra-el-fin-del-racionamiento-de-agua-en-un-par-de-meses-de-que-depende-noticias-de-bogota/).
 
-# Las preguntas
+## Las preguntas
 
 Como no soy un experto en este tema, me atrevo a plantear algunas
 cuestiones que para mí quedan en el aire.
